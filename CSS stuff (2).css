@@ -1,0 +1,61 @@
+body {background-color: black}
+
+img {
+    border: 10px solid white ;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    padding: 5px;
+}
+
+p {
+    font-family: 'Arial Narrow Bold', sans-serif ;
+}
+
+p, h1 ,h3, table{
+    color: white ;
+}
+
+p, h1 {
+    text-align: center;
+}
+
+p {
+    line-height: 1.5;
+}
+
+h1 { 
+    text-shadow: 5px 2px red; 
+    text-decoration: underline;
+}
+
+ul {
+    list-style-image: url(iconfinder_Emoji_LIne_Doodle_C-10_3094838.png);
+}
+
+table, tr, th, td  {
+    border: 1px solid white;
+}
+
+
+tr {
+    background-color: rgb(13, 0, 130);
+}
+
+tr:nth-child(even) {
+    background-color: rgb(245, 3, 3);
+}
+
+tr:first-of-type {
+    background-color: rgb(51, 45, 45);
+}
+
+table{
+  
+}
